@@ -17,4 +17,10 @@
 
 ## 결과
 
-!![Image](https://github.com/user-attachments/assets/787034c8-bf10-466f-afe9-8116bcd33349)
+<img src="https://github.com/user-attachments/assets/787034c8-bf10-466f-afe9-8116bcd33349" width="450">
+
+<img src="https://github.com/user-attachments/assets/7ce94486-e255-4afb-b5d3-9c8eb5510351" width="450">
+
+<img src="https://github.com/user-attachments/assets/7ce94486-e255-4afb-b5d3-9c8eb5510351" width="450">
+
+<img src="https://github.com/user-attachments/assets/e71af3fc-de42-493d-926a-34bb4c14df63" width="450">

@@ -24,3 +24,7 @@
 <img src="https://github.com/user-attachments/assets/7ce94486-e255-4afb-b5d3-9c8eb5510351" width="450">
 
 <img src="https://github.com/user-attachments/assets/e71af3fc-de42-493d-926a-34bb4c14df63" width="450">
+
+<img src="https://github.com/user-attachments/assets/0d43a786-d4ee-497e-8de1-00032eafa3d8" width="450">
+
+메시지 출력이 되지 않는다. 🥲
